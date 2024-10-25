@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.pyc
+Pipfile.lock
+
+# Environment variables
+.env
+
+# SQLite database
+db.sqlite3
+
+# IDE/Editor settings
+.vscode/
+
+# Mac OS generated files
+.DS_Store
